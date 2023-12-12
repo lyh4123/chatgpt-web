@@ -1,8 +1,8 @@
 <template>
   <div class="text-neutral-400">
-    <span>Star on</span>
-    <a href="https://github.com/Chanzhaoyu/chatgpt-bot" target="_blank" class="text-blue-500">
-      GitHub
+    <span>Chat with</span>
+    <a href="https://chat.yonghe88.top" target="_blank" class="text-blue-500">
+      yonghe.top
     </a>
   </div>
 </template>
